@@ -1,7 +1,6 @@
 ﻿using Azure.Identity;
 using Microsoft.Graph;
 using Microsoft.Identity.Client;
-using static System.Formats.Asn1.AsnWriter;
 
 namespace TimeLoggingApp.Domain
 {
